@@ -1,7 +1,7 @@
 # Hello 👋
 
-<!-- ### 👤Tommaso Abitante
+### 👤Tommaso Abitante
 ### 📩hello@tomab.it
 ### 🌐https://tomab.it
-### 🛠️Sviluppatore, Programmatore, Web Developer -->
-![Card](https://github.com/JaxzTW/JaxzTW/blob/main/tomab.png)
+### 🛠️Sviluppatore, Programmatore, Web Developer
+<!-- ![Card](https://github.com/JaxzTW/JaxzTW/blob/main/tomab.png)-->
